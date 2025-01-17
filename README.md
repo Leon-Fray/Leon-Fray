@@ -1,4 +1,4 @@
-<p align="center"><img width="240" src="3779145.webp" /></p>
+<p align="center"><img width="240" src="images.png" /></p>
 
 <p align="center"><a href="https://www.linkedin.com/in/leon-fray/">linkedin</a> • <a href="mailto:leonfray12@gmail.com">Email</a> • <a href="https://twitter.com/serpico_z">Twitter</a></p>
 
