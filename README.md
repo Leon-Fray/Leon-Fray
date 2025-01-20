@@ -1,6 +1,6 @@
 <p align="center"><img width="240" src="images.png" /></p>
 
-<p align="center"><a href="https://www.linkedin.com/in/leon-fray/">linkedin</a> • <a href="mailto:leonfray12@gmail.com">Email</a> • <a href="https://twitter.com/serpico_z">Twitter</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/leon-fray/">linkedin</a> • <a href="mailto:leonfray12@gmail.com">Email</a> 
 
 <h3 align="center"></h3>
 <p align="center">Hi, I'm Leon and I am a backend developer with a passion for creating efficient and scalable systems. Proficient in Golang and TypeScript, as well as SQL and have experience working with MQ, distributed systems, and microservice architecture. Constantly seeking new challenges and opportunities to improve my skills and deliver top-quality solutions.
