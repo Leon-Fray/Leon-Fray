@@ -3,7 +3,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/leon-fray/">linkedin</a> • <a href="mailto:leonfray12@gmail.com">Email</a> 
 
 <h3 align="center"></h3>
-<p align="center">Hi, I'm Leon and I am a problem solver with a passion for software development. I've worked with languages like  Pyton, Rust, Javascript/Typescript, PHP, C/C++, Java and have experience with technologies such as React/NextJS, MongoDB, Docker, Vue/Nuxt, Tailwind,PostgreSQL, Kubernetes, and Git
+<p align="center">Hi, I'm Leon and I am a problem solver with a passion for software development. I've worked with languages like  Python, Rust, Javascript/Typescript, PHP, C/C++, Java and have experience with technologies such as React/NextJS, MongoDB, Docker, Vue/Nuxt, Tailwind,PostgreSQL, Kubernetes, and Git
 
 
 
